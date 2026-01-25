@@ -16,6 +16,9 @@
 *.lock
 *.qws
 
+# VS Code Local History
+/.history/
+
 # Device programming images
 *.sof
 *.pof
