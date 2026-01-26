@@ -1,4 +1,5 @@
-# AHU_FPGA-_-
+# AHU_FPGA 课程设计
+
 
 基于 Quartus 的数字时钟设计工程。
 
